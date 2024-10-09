@@ -2,4 +2,4 @@ server:
   port: 8082
 
 stripe:
-  api-key: your_stripe_api_ke
+  api-key: your_stripe_api_key
